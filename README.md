@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iosGovind
-- 👀 I’m interested in Mobile technologies
+- 👀 I’m interested in C,C++,Data Structures, Swift, Mobile technologies
 - 🌱 I’m currently learning Swift,IOS,XCODE
-- 📫 reach me ... govind.solanki@appinvent.com
+- 📫 reach me ... govind.solanki@appinventiv.com
 
 <!---
 iosGovind/iosGovind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
