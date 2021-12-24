@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iosGovind
+- 👋 Hi, I’m @iOSGovind
 - 👀 I’m interested in C,C++,Data Structures, Swift, Mobile technologies
 - 🌱 I’m currently learning Swift,iOS,Xcode
 - 📫 reach me ... govind.solanki@appinventiv.com
